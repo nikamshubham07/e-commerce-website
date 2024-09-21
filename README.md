@@ -29,4 +29,4 @@ This is a web application for an e-commerce platform where users can browse prod
 ### Steps to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/e-commerce-website.git
+   https://github.com/nikamshubham07/e-commerce-website.git
