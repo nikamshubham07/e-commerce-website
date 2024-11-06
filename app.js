@@ -13,7 +13,7 @@ const products = [
       },
       {
         code: "darkblue",
-        img: "./img/air2.png",
+        img: "./img/air2.png", 
       },
     ],
   },
