@@ -8,7 +8,7 @@ const products = [
     price: 119,
     colors: [
       {
-        code: "black",
+        code: "black", 
         img: "./img/air.png",
       },
       {
